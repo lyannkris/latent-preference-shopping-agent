@@ -1,0 +1,17 @@
+#!/bin/bash
+#SBATCH --account=eecs545w26_class
+#SBATCH --job-name=our_model_train
+#SBATCH --partition=spgpu
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --cpus-per-task=4
+#SBATCH --gres=gpu:1 
+#SBATCH --output=gl_outputs/kl_loss_output-%j.out
+#SBATCH --error=gl_outputs/kl_loss_error-%j.err
+#SBATCH --mail-user=karisp@umich.edu
+#SBATCH --mail-type=BEGIN,END,FAIL
+
+module load python
+source venv/bin/activate
+
+python -u ./ppo_training.py

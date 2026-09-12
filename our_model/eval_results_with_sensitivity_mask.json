@@ -1,0 +1,21 @@
+{
+  "test_users_path": "data/user_test_set.pkl",
+  "belief_model_path": "checkpoints/belief_model_checkpoint.pth",
+  "value_net_path": "checkpoints/value_net_checkpoint.pth",
+  "actor_path": "checkpoints/actor_policy_checkpoint.pth",
+  "avg_total_reward": 15.0,
+  "avg_intrinsic_reward": 26.996832847118377,
+  "avg_extrinsic_reward": 18.239630348205566,
+  "avg_entropy_reduction": 3.8266718406677245,
+  "avg_belief_accuracy": 0.928,
+  "avg_regret": 2.0323224380612372,
+  "avg_normalized_regret": 0.11029042362105317,
+  "avg_dialogue_turns_to_success": 1.64,
+  "success_at_1": 0.032,
+  "success_at_3": 0.112,
+  "success_at_5": 0.184,
+  "success_at_10": 0.304,
+  "threshold_success_rate": 0.928,
+  "avg_uncertainty_reduction_per_turn": 0.38266718406677247,
+  "success_rate_at_turn_5": 0.952
+}

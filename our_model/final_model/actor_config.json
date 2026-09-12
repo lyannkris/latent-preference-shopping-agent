@@ -1,0 +1,27 @@
+{
+  "latent_dim": 8,
+  "answerable_attributes": [
+    "age",
+    "gender",
+    "clothing size",
+    "income",
+    "location",
+    "climate",
+    "activity level",
+    "social frequency",
+    "world news awareness",
+    "brand awareness",
+    "highest education level",
+    "name",
+    "personality",
+    "occupation",
+    "relationship status",
+    "languages spoken",
+    "places traveled",
+    "pet ownership",
+    "sibling count",
+    "life goals",
+    "attending event"
+  ],
+  "hidden_dim": 64
+}

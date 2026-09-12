@@ -1,0 +1,44 @@
+ List of User Attributes that Impact Latent Variables 
+• Gender Identity: randomly sampled from (M, F)
+• Age: randomly sampled between 15 and 65
+• Use Case/Event: randomly sampled from ()
+• Generalized Sizing: randomly sampled from (XS, S, M, L, XL)
+• Income: randomly sampled from (low, medium, high)
+• Location: randomly sampled from (urban, suburban, rural)
+• Climate: randomly sampled from (cold, hot, temperate)
+• Activity Level: randomly sampled from (high, medium, low)
+• Social Frequency: randomly sampled from (high, medium, low)
+• Degree of World News Awareness: randomly sampled from (high, medium, low)
+• Brand Awareness: randomly sampled from (high, medium, low)
+• Highest Education Level: randomly sampled from (Some High School, High School Graduate, Some University, University Graduate, Gradute Student)
+• Personality: randomly sampled from (extraverted, introverted, ambivert)
+ List of User Attributes with no Impact to Latent Variables
+• Name: randomly generated
+• Occupation: randomly generated
+• Relationship Status: randomly generated
+• Languages Spoken: randomly generated
+• Places Traveled: randomly generated
+• Pet Ownership: randomly generated
+• Sibling Information: randomly generated
+• Life Goals and Ambitions: randomly generated
+
+ List of Latent Variables
+• Comfort: Possible values of (), with different weights totalling to 1
+• Functionality: Possible values of (), with different weights totalling to 1
+• Maintenence: Possible values of (), with different weights totalling to 1
+• Status Symbol: Possible values of (), with different weights totalling to 1
+• Modesty Preference: Possible values of (), with different weights totalling to 1
+• Sustainability: Possible values of (), with different weights totalling to 1
+• Risk Tolerence: Possible values of (), with different weights totalling to 1
+• Trend Sensitivity: Possible values of (), with different weights totalling to 1
+
+ List of Preferences
+• Sizing: Possible values of (XS, S, M, L, XL)
+• Clothing Type: Possible values of ()
+• Fitting: Possible values of ()
+• Style: Possible values of ()
+• Brand: Possible values of ()
+• Pricing: Possible values of ()
+• Material: Possible values of ()
+• Functionality: Possible values of ()
+• Color Scheme: Possible values of ()
