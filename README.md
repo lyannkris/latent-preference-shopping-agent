@@ -133,10 +133,6 @@ The results also highlight an important tradeoff between conversational preferen
 
 Future work could extend this approach to real users, where true latent preference vectors are unavailable, and explore methods that learn the latent preference dimensions rather than defining them in advance.
 
-## Technologies & Methods
-
-`Python` · `Large Language Models` · `LLM Agents` · `Reinforcement Learning` · `PPO` · `Preference Learning` · `Recommender Systems` · `Latent Variable Modeling` · `PyTorch`
-
 ## Repository Structure
 
 ```text
@@ -145,7 +141,9 @@ Future work could extend this approach to real users, where true latent preferen
 ├── report.pdf
 │
 ├── code/
-│   └── ...
+    ├── CURIO
+    ├── VPL
+│   └── our_model
 │
 └── figures/
     ├── combined_model_pipeline.png
