@@ -1,0 +1,82 @@
+{
+  "type_0": {
+    "comfort": 0.4293009549189547,
+    "functionality": 0.518788822090629,
+    "maintenance": 0.450405303305138,
+    "status_symbol": 0.4622583210359701,
+    "modesty": 0.1241252038835178,
+    "sustainability": 0.2458826886966719,
+    "risk_tolerance": 0.19576740548010074,
+    "trend_sensitivity": 0.7983087319842218
+  },
+  "type_1": {
+    "comfort": 0.5200712585665648,
+    "functionality": 0.32514689877206376,
+    "maintenance": 0.4860391236682637,
+    "status_symbol": 0.7180505419849221,
+    "modesty": 0.30391300587626513,
+    "sustainability": 0.5560254410405554,
+    "risk_tolerance": 0.18880197775077526,
+    "trend_sensitivity": 0.2825375441730774
+  },
+  "type_2": {
+    "comfort": 0.5825157409132681,
+    "functionality": 0.29034313223355046,
+    "maintenance": 0.5928015064301687,
+    "status_symbol": 0.2294845163486275,
+    "modesty": 0.19092903949876355,
+    "sustainability": 0.22950447366927668,
+    "risk_tolerance": 0.38346946676079674,
+    "trend_sensitivity": 0.6086290773978189
+  },
+  "type_3": {
+    "comfort": 0.5789898481481802,
+    "functionality": 0.6358268238230975,
+    "maintenance": 0.23335909463913604,
+    "status_symbol": 0.34572876978002476,
+    "modesty": 0.7910926568583401,
+    "sustainability": 0.8928922870106827,
+    "risk_tolerance": 0.5519972560639809,
+    "trend_sensitivity": 0.5173538849357825
+  },
+  "type_4": {
+    "comfort": 0.7271756313969963,
+    "functionality": 0.10656638235992824,
+    "maintenance": 0.49060024110872835,
+    "status_symbol": 0.18926959635334945,
+    "modesty": 0.4242824347647577,
+    "sustainability": 0.16262548439667204,
+    "risk_tolerance": 0.3900163689980006,
+    "trend_sensitivity": 0.5091443705432378
+  },
+  "type_5": {
+    "comfort": 0.1429996364275016,
+    "functionality": 0.3999999326667071,
+    "maintenance": 0.96663892449068,
+    "status_symbol": 0.415283856970241,
+    "modesty": 0.14626066890921616,
+    "sustainability": 0.44624803355598086,
+    "risk_tolerance": 0.04952346027623311,
+    "trend_sensitivity": 0.4897414891804925
+  },
+  "type_6": {
+    "comfort": 0.24709958966202697,
+    "functionality": 0.5174617430441584,
+    "maintenance": 0.5672717745109134,
+    "status_symbol": 0.5772390984985077,
+    "modesty": 0.242656400901882,
+    "sustainability": 0.5725644177491382,
+    "risk_tolerance": 0.2829579152211639,
+    "trend_sensitivity": 0.27018466688227316
+  },
+  "type_7": {
+    "comfort": 0.6287792775885043,
+    "functionality": 0.3125116123260922,
+    "maintenance": 0.7855240057127829,
+    "status_symbol": 0.2186902965486913,
+    "modesty": 0.3379489231248264,
+    "sustainability": 0.8111752132990959,
+    "risk_tolerance": 0.6008459031679925,
+    "trend_sensitivity": 0.04953921850736742
+  }
+}
